@@ -1,4 +1,6 @@
--docker-ruby-nodejs-npm
+# docker-ruby-nodejs-npm
 =======================
 
-A sinmple Docker image for running Ruby and NodeJS width Centos 6
+A sinple Docker image for running Ruby and NodeJS width Centos 6
+
+
